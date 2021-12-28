@@ -44,6 +44,7 @@ body {
 		height: 100%;
 		width: 100%;
 	}
+
 }
 a {
 	transition: .3s all ease;
@@ -54,12 +55,15 @@ a {
 		outline: none !important;
 	}
 }
+
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
 	line-height: 1.5;
 	color: rgba(0,0,0,.9);
 	font-weight: 400;
 }
+
+
 
 .text-primary {
 	color: $primary!important;
@@ -881,7 +885,7 @@ h1, h2, h3, h4, h5,
 }
 
 //SERVICES
-.services{
+.education{
 	@include transition(.3s);
 	width: 100%;
 	// border: 1px solid $primary;
@@ -929,7 +933,7 @@ h1, h2, h3, h4, h5,
 
 
 //SKILLS--------------------
-.progress-wrap{
+.experience{
 	width: 100%;
 	margin-bottom: 30px;
 	h3{
@@ -1042,7 +1046,7 @@ h1, h2, h3, h4, h5,
 
 
 //PROJECT
-.project{
+.experience{
 	width: 100%;
 	height: 285px;
 	margin-bottom: 30px;
@@ -1103,7 +1107,7 @@ h1, h2, h3, h4, h5,
 
 
 //TESTIMONY
-.testimony-section{
+.experience{
 	position: relative;
 	.owl-carousel{
 		margin: 0;
