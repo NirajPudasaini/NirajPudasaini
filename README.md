@@ -21,4 +21,4 @@ These skills enable me to tackle a wide range of projects and contribute effecti
 
 ## Projects and Contributions 🚀
 
-You can find about my publicized projects on the repos, and in more details here: nirajpudasaini.com.np 
+You can find about my publicized projects on the repos, and in more details, including reports here: nirajpudasaini.com.np 
