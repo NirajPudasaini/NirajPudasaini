@@ -6,7 +6,7 @@ Hello there! I'm Niraj Pudasaini, an Electrical Engineering and Computer Science
 
 - Major: Electrical Engineering, Minor: Computer Science
 
-During my time at New York University Abu Dhabi, I have acquired a diverse range of knowledge and skills. Here are some of the notable courses I have taken: Engineering Research Seminar, Object Oriented Programming, Engineering Ethics, Design and Innovation for Engineers, Signals and Systems, Electronics, Advanced Digital Logic, Advanced Circuits, Physics I: Forces and Interactions, Electricity and Magnetism, Linear Algebra, Discrete Mathematics, Multivariable Calculus, Ordinary Differential Equations, Probability and Statistics, Complex Variables, Numerical Methods, Computer Simulation, Robotics Locomotion and Manipulation, Electromagnetic Waves, Embedded Systems, and Robot Vision.
+During my time at New York University Abu Dhabi, I have acquired a diverse range of knowledge and skills. Here are some of the notable courses I have taken: Object Oriented Programming, Design and Innovation for Engineers, Signals and Systems, Electronics, Advanced Digital Logic, Advanced Circuits, Linear Algebra,, Probability and Statistics, Numerical Methods, Computer Simulation, Robotics Locomotion and Manipulation, Electromagnetic Waves, Embedded Systems, and Robot Vision.
 
 ## Programming Skills 💻
 
