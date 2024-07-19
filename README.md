@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello there! I'm Niraj, an Electrical Engineering graduate from New York University Abu Dhabi. With a particular focus on Robotics and Machine Learning, I am dedicated to understanding the ways in which these fields can be used to create practical solutions that have a meaningful impact on society. 
+I'm Niraj, an Electrical Engineering graduate from New York University Abu Dhabi, trying to turn caffeine into robotics solutions, code, and innovations.
 
 ## Education 📚
 
@@ -15,7 +15,3 @@ I am passionate about coding and have developed proficiency in several programmi
 - Robotics: ROS, Rviz, Gazebo, other simulations
 
 I am constantly expanding my knowledge and exploring new technologies to enhance my abilities. Feel free to contact me for any possible collaboration. 
-
-## Projects and Contributions 🚀
-
-You can find about my publicized projects on the repos, and in more details, including reports here: nirajpudasaini.com.np 
