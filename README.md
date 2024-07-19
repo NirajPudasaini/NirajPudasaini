@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Greetings!
 
 I'm Niraj, an Electrical Engineering graduate from New York University Abu Dhabi, trying to turn caffeine into robotics solutions, code, and innovations.
 
