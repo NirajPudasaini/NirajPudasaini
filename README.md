@@ -14,4 +14,4 @@ I am passionate about coding and have developed proficiency in several programmi
 - Other Software: Unity, Solidworks, Cadence, Blender
 - Robotics: ROS, Rviz, Gazebo, other simulations
 
-I am constantly expanding my knowledge and exploring new technologies to enhance my abilities. Feel free to contact me for any possible collaboration. 
+Feel free to contact me for any possible collaboration that fits my skills.  
